@@ -1,3 +1,5 @@
+# Aaron Grgurich
+
 import pigpio
 import time
 
