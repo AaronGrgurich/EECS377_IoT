@@ -3,11 +3,6 @@ import time
 
 pi1 = pigpio.pi()
 
-#dc = 100
-
-# pi1.set_PWM_dutycycle(13, 100)
-
-
 try:
         while True:
 		# Red LED
